@@ -2,14 +2,23 @@
 
 
 **Work to be done:**
+
 I. Number of Customers
+
 II. Filtering customerID with Specific Format
+
 III. Filtering for Duplicate customerID Numbers
+
 IV. Resolving Missing Values by Deleting Rows
+
 V. Resolving Missing Values by Filling in Specific Values
+
 VI. Outlier Detetion with Boxplot
+
 VII. Eleminate Outliers
+
 VIII. Nonstandard Value Detection
+
 IX. Standardization of Categorical Variables
 
 PowerPoint:
