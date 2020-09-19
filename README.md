@@ -24,5 +24,7 @@ IX. Standardization of Categorical Variables
 PowerPoint:
 https://docs.google.com/presentation/d/1EFAkQxXF2oQkFqP4uViZlSbERYIrckuSS01m_5PvXv0/edit?usp=sharing
 
+Certificates:
+
 ![cfgb](https://user-images.githubusercontent.com/53082147/93669578-69444200-fabf-11ea-8081-c7d9a0fa7d2d.PNG)
 
