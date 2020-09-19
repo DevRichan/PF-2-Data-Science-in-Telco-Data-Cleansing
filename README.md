@@ -3,7 +3,7 @@
 
 ## **Work to be done:**
 
-I. Number of Customers
+I. Displays the Number of Customers
 
 II. Filtering customerID with Specific Format
 
